@@ -1,15 +1,34 @@
 {
   "developers": [
         { 
-          "name": "Yasosu Bibu", 
+          "name": "Van Darkholm",
+          "img": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d7/d7dba98ed28a0459e3b2255c01b20892c6f3e655_full.jpg",
           "properties": [
             {
               "key": "role", 
-              "val": "cock sucker"
+              "val": "dungeon master"
+            }, 
+            {
+              "key": "age",
+              "val": 48
+            } ,  
+            {
+              "key": "link",
+              "val": "https://www.twitch.tv/vansamaofficial"
+            }
+          ]
+        },
+        { 
+          "name": "Steve Rambo",
+          "img": "https://www.kinopoisk.ru/name/1155578/",
+          "properties": [
+            {
+              "key": "role", 
+              "val": "accountant"
             }, 
             {
               "key": "age",  
-              "val": 54
+              "val": 64
             },  
             {
               "key": "link", 
@@ -18,22 +37,59 @@
           ]
         },
         { 
-          "name": "Pjer Deju",   
+          "name": "Brad McGuire",
+          "img": "https://www.kinopoisk.ru/name/1244453/",
           "properties": [
-            {
-              "key": "role", 
-              "val": "dungeon master"
-            }, 
-            {
-              "key": "age",
-              "val": 10
-            } ,  
-            {
-              "key": "link",
-              "val": "https://freecamwhores.ua"
-            }
-          ]
-        }
+              {
+                "key": "role", 
+                "val": "Engineer"
+              }, 
+              {
+                "key": "age",  
+                "val": 50
+              },  
+              {
+                "key": "link", 
+                "val": "https://fuckmehard.vnos"
+              }
+            ]
+          },
+                 { 
+          "name": "Billy Herrington,
+          "img": "https://gachimuchi.fandom.com/wiki/Billy_Herrington",
+          "properties": [
+              {
+                "key": "role", 
+                "val": "cock sucker"
+              }, 
+              {
+                "key": "age",  
+                "val": 48
+              },  
+              {
+                "key": "link", 
+                "val": "https://fuckmehard.vnos"
+              }
+            ]
+          },
+                  { 
+          "name": "Yasosu Bibu",
+          "img": "https://avatanplus.com/files/resources/mid/5fca400981dd31762e0a253c.png",
+          "properties": [
+              {
+                "key": "role", 
+                "val": "cock sucker"
+              }, 
+              {
+                "key": "age",  
+                "val": 54
+              },  
+              {
+                "key": "link", 
+                "val": "https://zxc.space.f9.shift.enter.question.f9.ua/femboy2011.html"
+              }
+            ]
+          }
       ],
   "profile": {
     "name": "TJesT"
