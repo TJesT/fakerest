@@ -1,13 +1,43 @@
 {
   "developers": [
-        { name: "Yasosu Bibu", img: "", properties: [
-            {key: "role", val: "cock sucker"}, 
-            {key: "age",  val: 54} ,  
-            {key: "link", val: "https://fuckmehard.vnos"}]},
-        { name: "Pjer Deju",   img: "", properties: [
-            {key: "role", val: "dungeon master"}, 
-            {key: "age",  val: 10} ,  
-            {key: "link", val: "https://freecamwhores.ua"}]},
-            
-      ]
+        { 
+          name: "Yasosu Bibu", 
+          img: "", 
+          properties: [
+            {
+              key: "role", 
+              val: "cock sucker"
+            }, 
+            {
+              key: "age",  
+              val: 54
+            },  
+            {
+              key: "link", 
+              val: "https://fuckmehard.vnos"
+            }
+          ]
+        },
+        { 
+          name: "Pjer Deju",   
+          img: "", 
+          properties: [
+            {
+              key: "role", 
+              val: "dungeon master"
+            }, 
+            {
+              key: "age",
+              val: 10
+            } ,  
+            {
+              key: "link",
+              val: "https://freecamwhores.ua"
+            }
+          ]
+        },
+      ],
+  "profile": {
+    "name": "TJesT"
+  }
 }
