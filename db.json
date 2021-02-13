@@ -38,7 +38,7 @@
         },
         { 
           "name": "Алексей",
-          "img": "https://github.com/nerlihmax/nti-frontend/raw/main/Lyosha.jpg,
+          "img": "https://github.com/nerlihmax/nti-frontend/raw/main/Lyosha.jpg",
           "properties": [
               {
                 "key": "role", 
