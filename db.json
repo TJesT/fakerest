@@ -1,92 +1,74 @@
 {
   "developers": [
         { 
-          "name": "Van Darkholm",
-          "img": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d7/d7dba98ed28a0459e3b2255c01b20892c6f3e655_full.jpg",
+          "name": "Максим",
+          "img": "https://github.com/nerlihmax/nti-frontend/raw/main/Maxim.jpg",
           "properties": [
             {
               "key": "role", 
-              "val": "dungeon master"
+              "val": "Капитан"
             }, 
             {
               "key": "age",
-              "val": 48
+              "val": 19
             } ,  
             {
               "key": "link",
-              "val": "https://www.twitch.tv/vansamaofficial"
+              "val": "/#/me/nerlihmax@yandex.ru"
             }
           ]
         },
         { 
-          "name": "Steve Rambo",
-          "img": "https://sun9-5.userapi.com/impg/XmfDZsxNgWGJHJa72Wbg_TRj-FAM1INtR-7r0A/83uyn-S1v2E.jpg?size=810x700&quality=96&proxy=1&sign=eefca7a077a86067085ebca72a06d93e&type=album",
+          "name": "Илья",
+          "img": "https://github.com/nerlihmax/nti-frontend/raw/main/Ilya.jpg",
           "properties": [
             {
               "key": "role", 
-              "val": "Accountant"
+              "val": "Бэкэдер"
             }, 
             {
               "key": "age",  
-              "val": 64
+              "val": 18
             },  
             {
               "key": "link", 
-              "val": "https://idbe.olright.happy.to/"
+              "val": "/#/me/ilya@examle.com"
             }
           ]
         },
         { 
-          "name": "Brad McGuire",
-          "img": "https://sun9-32.userapi.com/impg/LpeT45Sr_fLcWTQZ3IUW6tcOia-FV6j7EbKw9Q/fRIfcS5_EyU.jpg?size=690x660&quality=96&proxy=1&sign=6a536874f98139f66ff905082bc90664&type=album",
+          "name": "Алексей",
+          "img": "https://github.com/nerlihmax/nti-frontend/raw/main/Lyosha.jpg,
           "properties": [
               {
                 "key": "role", 
-                "val": "Engineer"
+                "val": "Фронтэндер"
               }, 
               {
                 "key": "age",  
-                "val": 50
+                "val": 18
               },  
               {
                 "key": "link", 
-                "val": "https://daddygi.ve/me/agoodadvice.js"
+                "val": "/#/me/tjest@example.com"
               }
           ]
         },
         { 
-          "name": "Billy Herrington",
-          "img": "https://sun9-34.userapi.com/impg/_ntM1s7soPTCLuNIzqmNXvq2YwJN5lGRGOgvCw/uEUpqwd94zs.jpg?size=900x900&quality=96&proxy=1&sign=ad7b0a8af7d9bd18d56c86fe5e194e9b&type=album",
+          "name": "Игорь",
+          "img": "https://github.com/nerlihmax/nti-frontend/raw/main/Igor.jpg",
           "properties": [
               {
                 "key": "role", 
-                "val": "Talisman"
+                "val": "Хороший человек"
               }, 
               {
                 "key": "age",  
-                "val": 48
+                "val": 18
               },  
               {
                 "key": "link", 
-                "val": "https://2blocksdown.su/"
-              }
-          ]
-        },
-        { 
-          "name": "Yasosu Bibu",
-          "img": "https://avatanplus.com/files/resources/mid/5fca400981dd31762e0a253c.png",
-          "properties": [
-              {
-                "key": "role", 
-                "val": "cock sucker"
-              }, 
-              {
-                "key": "age",  
-                "val": 54
-              },  
-              {
-                "key": "link", 
-                "val": "https://zxc.space.f9.shift.enter.question.f9.ua/femboy2011.html"
+                "val": "/#/me/igor@eample.com"
               }
           ]
         }
