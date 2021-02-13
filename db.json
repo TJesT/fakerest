@@ -24,7 +24,7 @@
           "properties": [
             {
               "key": "role", 
-              "val": "Бэкэдер"
+              "val": "Бэкэндер"
             }, 
             {
               "key": "age",  
@@ -32,7 +32,7 @@
             },  
             {
               "key": "link", 
-              "val": "/#/me/ilya@examle.com"
+              "val": "/#/me/ilya@example.com"
             }
           ]
         },
@@ -68,7 +68,7 @@
               },  
               {
                 "key": "link", 
-                "val": "/#/me/igor@eample.com"
+                "val": "/#/me/igor@example.com"
               }
           ]
         }
